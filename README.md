@@ -1,6 +1,6 @@
 #gulp-bs-browserify-babel
 
-# A Base Web Project using: Gulp, Browsersync, Browserify, Babel and Karma Runner.
+A Base Web Project using: Gulp, Browsersync, Browserify, Babel and Karma Runner.
 
 ## Building this project
 
